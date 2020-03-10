@@ -43,3 +43,8 @@ module.exports = {
 - git init
 - ほにゃららpush
 
+## Layoutコンポーネント作成
+- components/Layout.js
+- components/Header.js
+- components/Footer.js
+- index.jsにimport
