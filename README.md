@@ -67,3 +67,7 @@ module.exports = {
 
 ## firebaseのインストール
 - npm install --save firebase
+
+## storeの作成
+- firebaseのkey等の為これはpushしてません
+
