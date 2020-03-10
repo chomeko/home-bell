@@ -48,3 +48,14 @@ module.exports = {
 - components/Header.js
 - components/Footer.js
 - index.jsにimport
+
+## head情報設定
+- components/Layout.js編集
+
+## reduxの導入
+- npm install --save redux
+- npm install --save react-redux
+- npm install --save redux-thunk
+- lib/redux-store.jsの作成
+- pages/_app.jsの作成
+- ストアの作成はちょっと後回し
