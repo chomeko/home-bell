@@ -78,3 +78,14 @@ module.exports = {
 - ここはあとでstyleを整える
 - pages/home.jsの編集
 - components/Bell.jsの作成
+
+## いったんここでデプロイする
+- npm install -g firebase-tools　インストール
+- firebase.json編集
+>ここでハマる
+`"public": "out"`で解決
+- npm run build && npm run export
+- firebase deploy
+>deploy完了
+
+

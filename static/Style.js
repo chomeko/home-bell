@@ -12,12 +12,12 @@ export default <style>{`
   }
   footer {
     color:#99c;
-    font-size:12pt
+    font-size:12pt;
     border-bottom:1px solid #99c;
     margin:50px 0px 10px 0px;
     position:relative;
     bottom:10px;
-    right:10px
+    right:10px;
     left:10px;
   }
   h1{
