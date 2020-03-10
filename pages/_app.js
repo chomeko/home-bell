@@ -7,11 +7,11 @@ class _App extends App {
   render() {
     const { Component, pageProps, reduxStore } = this.props
     return (
-      <Conteiner>
+      <Container>
         <Provider store={reduxStore}>
           <Component {...pageProps} />
         </Provider>
-      </Conteiner>
+      </Container>
     )
   }
 }

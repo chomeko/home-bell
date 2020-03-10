@@ -71,3 +71,5 @@ module.exports = {
 ## storeの作成
 - firebaseのkey等の為これはpushしてません
 
+## _appの作成
+- pages/_app.js
