@@ -59,3 +59,11 @@ module.exports = {
 - lib/redux-store.jsの作成
 - pages/_app.jsの作成
 - ストアの作成はちょっと後回し
+
+## firebaseのサイトで色々やる
+- 登録後
+- アプリの追加
+- スクリプトコピー
+
+## firebaseのインストール
+- npm install --save firebase
