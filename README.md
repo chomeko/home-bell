@@ -73,3 +73,8 @@ module.exports = {
 
 ## _appの作成
 - pages/_app.js
+
+## homeページにベルとテキスト表示
+- ここはあとでstyleを整える
+- pages/home.jsの編集
+- components/Bell.jsの作成
